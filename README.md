@@ -2,7 +2,7 @@
 
 -I am a graduate of Kaunas University of Technology in Multimedia Technology. 
 
--I have finished Full stack academy at Vilnius Coding School and now most of my attention is focused on learning JavaScript, jQuery, React, hoping that will allow me to work as a Junior Front-End Developer
+-I have finished Full stack academy at Vilnius Coding School and learned how to work with HTML elements, CSS style, basics JavaScript and PHP, also, how to work with databases. Now most of my attention is focused on learning JavaScript, jQuery, React, hoping that will allow me to work as a Junior Front-End Developer
 
 
 -⚡I’m a Junior Front-End Web Developer with a bit of backend knowledge.
