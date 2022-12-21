@@ -1,10 +1,14 @@
 ### Hi there, I'm Evelina 👋
 
 -I am a graduate of Kaunas University of Technology in Multimedia Technology. 
+
 -I have finished Full stack academy at Vilnius Coding School and now most of my attention is focused on learning JavaScript, jQuery, React, hoping that will allow me to work as a Junior Front-End Developer
 
 
 -⚡I’m a Junior Front-End Web Developer with a bit of backend knowledge.
+
 -⚡I’m a beginner at HTML | CSS & JavaScript.
+
 -⚡I'm learning React JS and React-Native.
+
 -📫 You can reach me in venckute.evelina1@gmail.com
