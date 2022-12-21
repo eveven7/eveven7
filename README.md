@@ -4,7 +4,7 @@
 
 -⚡I’m a beginner at HTML | CSS & JavaScript.
 
--⚡I'm learning React JS and React-Native.
+-⚡I'm learning React JS 
 
 - 📌I am a graduate of Kaunas University of Technology in Multimedia Technology. 
 
