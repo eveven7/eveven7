@@ -19,3 +19,5 @@
 - 📌I have finished Full stack academy at Vilnius Coding School and learned how to work with HTML elements, CSS style, basics JavaScript and PHP, also, how to work with databases. Now most of my attention is focused on learning JavaScript, jQuery, React, hoping that will allow me to work as a Junior Front-End Developer
 
 -📫 You can reach me in venckute.evelina1@gmail.com
+
+-📫 Linkedin https://www.linkedin.com/in/evelinavenckute/
