@@ -4,9 +4,9 @@
 
 - 📌I am a graduate of Kaunas University of Technology in Multimedia Technology. 
 
-- 📌Participated at Swedbank IT academy
+- 📌Swedbank IT academy
 
-- TypeScript, Angular, Java, AutomationTesting
+-TypeScript, Angular, Java, AutomationTesting
 
 - 📌Participated at Devbridge Sourcery for testers academy and learned 
 
