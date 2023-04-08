@@ -1,12 +1,12 @@
 ### Hi there, I'm Evelina 👋
 
--⚡I’m a Junior Front-End Web Developer with a bit of backend knowledge.
 
--⚡I’m a beginner at HTML | CSS & JavaScript.
-
--⚡I'm learning React JS 
 
 - 📌I am a graduate of Kaunas University of Technology in Multimedia Technology. 
+
+- 📌Participated at Swedbank IT academy
+
+- TypeScript, Angular, Java, AutomationTesting
 
 - 📌Participated at Devbridge Sourcery for testers academy and learned 
 
